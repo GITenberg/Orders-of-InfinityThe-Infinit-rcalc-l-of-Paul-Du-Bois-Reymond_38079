@@ -1,0 +1,32 @@
+_repo: Orders-of-InfinityThe-Infinit-rcalc-l-of-Paul-Du-Bois-Reymond_38079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, G. H. (Godfrey Harold)
+    alias: Hardy, Godfrey Harold
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '39236'
+    url: http://www.gutenberg.org/2009/agents/39236
+    wikipedia: http://en.wikipedia.org/wiki/G._H._Hardy
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38079'
+  lccn: '10022755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Cambridge Tracts in Mathematics and Mathematical Physics, No. 12
+subjects:
+- !lcc 'QA'
+- !lcsh 'Functions'
+- !lcsh 'Du Bois-Reymond, Paul, 1831-1889'
+title: 'Orders of Infinity: The ''Infinitärcalcül'' of Paul Du Bois-Reymond'
+url: http://www.gutenberg.org/ebooks/38079
