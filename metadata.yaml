@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39236
     wikipedia: http://en.wikipedia.org/wiki/G._H._Hardy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38079#Orders-of-InfinityThe-Infinit-rcalc-l-of-Paul-Du-Bois-Reymond
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2011-11-21'
 gutenberg_type: Text
